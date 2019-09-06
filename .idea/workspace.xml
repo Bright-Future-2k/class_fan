@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0deaa3c6-9463-4827-b9d4-e7c0a01d2211" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Future_Value_Calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Future_Value_Calculator/.idea/Future_Value_Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Future_Value_Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Future_Value_Calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Future_Value_Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Future_Value_Calculator/caculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product_Discount_Calculator/.idea/Product_Discount_Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product_Discount_Calculator/count_product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/class_Fan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_HCN/.idea/class_HCN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_HCN/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_HCN/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_HCN/rect.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_quadratic_equation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_quadratic_equation/.idea/class_quadratic_equation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_quadratic_equation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_quadratic_equation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_quadratic_equation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_quadratic_equation/Quadratic_Equation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_quadratic_equation/my.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_quadratic_equation/quadratic_equation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/.idea/dang_ki_nguoi_dung.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/file.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_nguoi_dung/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../danh_sach_khach/.idea/danh_sach_khach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary_simple/.idea/dictionary_simple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary_simple/dictionary.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../find_max_mang_2_chieu/.idea/find_max_mang_2_chieu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../find_max_mang_2_chieu/find_max.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/.idea/hien_error_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/Calculate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hien_error_number/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_for_web/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_for_web/.idea/layout_for_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_for_web/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_for_web/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_for_web/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_for_web/content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_for_web/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_for_web/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_for_web/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_for_web/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_for_web/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list_customer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list_customer/.idea/list_customer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list_customer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list_customer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list_customer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list_customer/list_customer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/.idea/login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../read_number/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../read_number/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../read_number/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../read_number/.idea/read_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../read_number/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../read_number/read_number.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple_calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple_calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple_calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple_calculator/.idea/simple_calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple_calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple_calculator/simple_calculate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../value_min/.idea/value_min.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../value_min/value_min.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../danh_sach_khach/danh_sach.php" beforeDir="false" afterPath="$PROJECT_DIR$/../danh_sach_khach/danh_sach.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1QSI1J3tzZgcHmm7r7hZo0mJKXf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0deaa3c6-9463-4827-b9d4-e7c0a01d2211" name="Default Changelist" comment="" />
+      <created>1567757353210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567757353210</updated>
+      <workItem from="1567757354307" duration="5674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
